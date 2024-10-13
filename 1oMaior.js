@@ -6,12 +6,6 @@ Link: https://judge.beecrowd.com/pt/runs?problem_id=1013&answer_id=1
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
-var input = require('fs').readFileSync('/dev/stdin', 'utf8');
-var lines = input.split('\n');
-var input = require('fs').readFileSync('/dev/stdin', 'utf8');
-var lines = input.split('\n');
-var input = require('fs').readFileSync('/dev/stdin', 'utf8');
-var lines = input.split('\n');
 
 
 let numeros = lines[0].split(' ');
